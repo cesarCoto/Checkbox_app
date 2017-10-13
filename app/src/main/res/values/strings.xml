@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="text_numero_a">Numero A</string>
+    <string name="text_numero_b">Numero B</string>
+    <string name="text_instruccion">Escribe dos numeros</string>
+    <string name="text_sumar">Sumar</string>
+    <string name="text_restar">Restar</string>
+    <string name="text_multiplicar">Multiplicar</string>
+    <string name="text_dividir">Dividir</string>
+    <string name="text_calcular">Calcular</string>
+</resources>
